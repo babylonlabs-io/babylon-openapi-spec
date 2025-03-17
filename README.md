@@ -1,4 +1,4 @@
-# babylon-openapi-spec
+# Babylon OpenAPI Spec Repository
 A place to host babylon openapi speciciations for its staking apis gRPC apis and more.
 
 This repository renders two important rendered api specifications: 
